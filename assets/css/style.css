@@ -1,0 +1,23 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  text-align: center;
+}
+.main-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50%;
+  margin-top: 30px;
+}
+
+.main-card {
+  background-color: aquamarine;
+  border: solid black 4px;
+  width: 50%;
+  height: 100%;
+}
