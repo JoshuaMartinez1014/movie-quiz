@@ -20,4 +20,23 @@ h1 {
   border: solid black 4px;
   width: 50%;
   height: 100%;
+  padding: 20px;
+}
+
+#submit-button {
+  float: right;
+}
+
+#card-questions {
+  display: flex;
+  flex-direction: column;
+}
+.questions {
+  border: solid black 2px;
+  padding: 20px;
+  background-color: aqua;
+}
+
+.card-title {
+  font-weight: bold;
 }
